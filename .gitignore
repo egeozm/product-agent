@@ -1,0 +1,15 @@
+config.json
+.env
+products.json
+report.csv
+__pycache__/
+*.pyc
+.playwright/
+screenshots/
+logs/
+
+*.xlsx
+*.docx
+netsis stok görselleri/
+discovery/
+.DS_Store

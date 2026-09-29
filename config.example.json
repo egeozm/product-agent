@@ -1,0 +1,13 @@
+{
+  "admin_url": "https://adresgezginitasarim.com/aterstore/admin/",
+  "product_form_url": "https://adresgezginitasarim.com/aterstore/admin/?modul=icerik&sayfa=icerik&m_id=12",
+  "username": "YOUR_USERNAME",
+  "password": "YOUR_PASSWORD",
+  "headless": false,
+  "slow_mo_ms": 800,
+  "delay_between_steps_ms": 1500,
+  "delay_between_products_sec": 5,
+  "wait_for_network_idle": true,
+  "dry_run": false,
+  "limit": null
+}
